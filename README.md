@@ -1,6 +1,3 @@
-Here’s a detailed and organized README template you can use for your project on GitHub. It highlights the key features of your cover letter generator app, along with setup instructions, project structure, and more.
-
----
 
 # 📝 Cover Letter Generator
 
