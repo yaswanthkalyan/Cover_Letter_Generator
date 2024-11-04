@@ -137,4 +137,3 @@ Special thanks to all the open-source libraries and tools that made this project
 
 ---
 
-You can modify this template further to suit your project needs, especially the Acknowledgments or Contributing sections if you have specific guidelines for contributors.
